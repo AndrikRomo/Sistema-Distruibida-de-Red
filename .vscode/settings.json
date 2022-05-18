@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "Chat/chatclientrmi-master/src",
+        "Ejemplo 1/TestRMI/src"
+    ]
+}
